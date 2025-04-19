@@ -41,6 +41,14 @@ A influência do System/360 estende-se até aos nossos dias:
 
 ---
 
+## 🔢 O nascimento do "byte"
+
+Sabias que foi no contexto do System/360 que o termo **byte** passou a significar, oficialmente, um grupo de **8 bits**?
+
+Antes disso, diferentes computadores usavam tamanhos variados para representar um "carácter" — podiam ser 6, 7 ou até 9 bits. O System/360 padronizou o byte como 8 bits, um legado que sobrevive até hoje em praticamente todos os computadores.
+
+---
+
 ## 🧰 O que vais precisar
 
 Para experimentares um mainframe System/360 no teu computador, vais precisar de:
@@ -55,7 +63,7 @@ Para experimentares um mainframe System/360 no teu computador, vais precisar de:
 
 O **TK4-** é uma versão simplificada e pré-configurada do MVS 3.8j, ideal para iniciantes.
 
-> ⚠️ Nota: Alguns links antigos de download deixaram de funcionar. Para obter a versão mais recente, consulta a [Wikipedia (EN) sobre o TK4-](https://en.wikipedia.org/wiki/TK4-).
+> ⚠️ Nota: Alguns links antigos de download deixaram de funcionar. Recomenda-se procurar a versão mais recente em fóruns ou repositórios especializados.
 
 ---
 
@@ -76,5 +84,7 @@ O **TK4-** é uma versão simplificada e pré-configurada do MVS 3.8j, ideal par
 - Os discos rígidos do System/360 eram do tamanho de uma máquina de lavar e armazenavam apenas alguns MB
 
 ---
+
+🔙 [Voltar ao README](README.md)
 
 Este é apenas o início da aventura! 🚀
