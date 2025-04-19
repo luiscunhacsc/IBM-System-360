@@ -20,28 +20,16 @@ Vamos explorar:
 
 ---
 
-## 📦 Estrutura do Repositório
-
-```bash
-📁 tutoriais/
-   └── introducao_ao_ibm_360.md
-📁 recursos/
-   └── links_utilitarios.md
-📄 README.md
-```
-
----
-
 ## 🚀 Primeiros Passos
 
 ### 1. Ler o tutorial de introdução
-Começa por [aqui](introducao_ao_ibm_360.md) se nunca usaste um mainframe ou se queres reviver os tempos do **MVS em cartões perfurados**!
+Começa por [introducao_ao_ibm_360.md](introducao_ao_ibm_360.md) se nunca usaste um mainframe ou se queres reviver os tempos do **MVS em cartões perfurados**!
 
-### 2. Instalar o emulador Hercules + TK4-
-Para simular um ambiente realista de um mainframe, recomendamos usar:
+### 2. Alternativa em formatos Word e PDF
+Também podes consultar o mesmo conteúdo em outros formatos:
 
-**TK4-** – uma versão pré-configurada e simplificada do MVS 3.8j.  
-> ⚠️ *Nota:* Alguns links antigos para o TK4- estão desatualizados. Recomendamos consultar a [página da Wikipedia em inglês sobre TK4-](https://en.wikipedia.org/wiki/TK4-) para obter os links mais recentes.
+- 📄 [IBM System 360 Tutorial 1.docx](IBM%20System%20360%20Tutorial%201.docx)
+- 📄 [IBM System 360 Tutorial 1.pdf](IBM%20System%20360%20Tutorial%201.pdf)
 
 ---
 
