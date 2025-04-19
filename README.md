@@ -33,6 +33,21 @@ Também podes consultar o mesmo conteúdo em outros formatos:
 
 ---
 
+## 💥 Um projeto arrojado e de extremo risco
+
+O desenvolvimento do IBM System/360 foi uma das apostas **mais ousadas da história da IBM**. A empresa investiu mais de **5 mil milhões de dólares** (em valores da década de 60!) numa arquitetura inteiramente nova e incompatível com os seus próprios produtos anteriores. Esta decisão poderia ter levado ao colapso da empresa — mas em vez disso, **redefiniu a indústria da computação** e garantiu à IBM o domínio do mercado por décadas.
+
+---
+
+## 🔗 Recursos externos recomendados
+
+Além dos tutoriais em desenvolvimento neste repositório, recomendamos fortemente a consulta do repositório (em inglês):
+
+👉 **[Awesome Mainframes](https://github.com/FuzzyMainframes/Awesome-Mainframes/tree/master)**  
+Uma curadoria de ferramentas, tutoriais, recursos históricos e modernos sobre mainframes IBM.
+
+---
+
 ## 🛠️ Recursos Planeados
 
 - [ ] Guia completo de instalação do TK4- no Windows, Linux e Mac
