@@ -35,7 +35,7 @@ Vamos explorar:
 ## 🚀 Primeiros Passos
 
 ### 1. Ler o tutorial de introdução
-Começa por [aqui](tutoriais/introducao_ao_ibm_360.md) se nunca usaste um mainframe ou se queres reviver os tempos do **MVS em cartões perfurados**!
+Começa por [aqui](introducao_ao_ibm_360.md) se nunca usaste um mainframe ou se queres reviver os tempos do **MVS em cartões perfurados**!
 
 ### 2. Instalar o emulador Hercules + TK4-
 Para simular um ambiente realista de um mainframe, recomendamos usar:
