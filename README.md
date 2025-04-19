@@ -80,4 +80,4 @@ Este repositório está disponível sob a licença MIT. Consulta o ficheiro `LIC
 
 ### 🎩 Mantenedor
 
-Este projeto é mantido por [Luís](https://github.com/luiscunhacsc), professor e entusiasta da história da computação.
+Este projeto é mantido por [Luís Cunha](https://github.com/luiscunhacsc), professor e entusiasta da história da computação.
